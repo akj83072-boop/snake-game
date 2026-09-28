@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game",
+  "description": "A simple and fun classic Snake eating apple game built with HTML, CSS, and JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
